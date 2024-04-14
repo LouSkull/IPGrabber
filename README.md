@@ -1,1 +1,1 @@
-tutorial on youtube: https://www.youtube.com/watch?v=FUgKr7S5Q0c
+tutorial on rutube: https://rutube.ru/video/0dea6f84349c69cfdf39b6bc8e74d651/
