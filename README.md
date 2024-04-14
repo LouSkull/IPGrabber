@@ -1,1 +1,1 @@
-tutorial on rutube: https://rutube.ru/video/94149c4ac1c119f51592c376815a4bed/
+tutorial on google drive: https://drive.google.com/file/d/1e_AKwiY05AUIDucs6nTdD5jxGCQy6INk/view?usp=sharing
