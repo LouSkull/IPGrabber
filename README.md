@@ -1,1 +1,1 @@
-tutorial on rutube: https://rutube.ru/video/0dea6f84349c69cfdf39b6bc8e74d651/
+tutorial on rutube: https://rutube.ru/video/private/94149c4ac1c119f51592c376815a4bed/?p=T6NvZxWOTTw2RYGZzLvPiQ)
